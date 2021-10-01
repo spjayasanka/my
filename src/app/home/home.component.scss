@@ -1,0 +1,31 @@
+.new-ui-container {
+  height: calc(100vh - 60px);
+  overflow-y: auto;
+  display: table;
+  padding-bottom: 4rem;
+  max-width: 1400px;
+  justify-content: center;
+  min-width: 50%;
+}
+
+.table-cell {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+
+
+.pad-10 {
+  padding-top: 10px;
+}
+
+.contains {
+  display: table;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn-style {
+  font-size: 17px;
+  min-width: 150px;
+}

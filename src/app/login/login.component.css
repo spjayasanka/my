@@ -1,0 +1,16 @@
+.new-ui-container {
+  height: calc(100vh - 60px);
+  overflow-y: auto;
+  display: table;
+  padding-bottom: 4rem;
+  max-width: 1400px;
+  justify-content: center;
+  min-width: 50%;
+}
+
+.table-cell {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+
